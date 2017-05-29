@@ -4,9 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Galleria Siw</title>
+<title>Insert title here</title>
 </head>
 <body>
-
+<div>
+	<a href="quadro" > Inserisci Quadro</a>
+</div>
+<div>
+	<a href="inserimentoAutore.jsp" > Inserisci Autore</a>
+</div>
 </body>
 </html>

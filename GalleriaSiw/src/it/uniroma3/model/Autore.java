@@ -12,7 +12,7 @@ import javax.persistence.NamedQuery;
 import javax.persistence.OneToMany;
 
 @Entity
-@NamedQuery(name="findAllAutori", query="SELECT q FROM Quadro q")
+@NamedQuery(name="findAllAutori", query="SELECT a FROM Autore a")
 public class Autore {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
